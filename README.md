@@ -10,9 +10,13 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ekomh170) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/ekomh170) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/eko.m.haryono) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ekomh_29/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ekomh170) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/ekomh170) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eko-haryono-5a93301a6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIy8Th9MIT0yECfpOjycwvw%3D%3D)
 
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ekomh29) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/line.svg' alt='line' height='40'>](ekomh.) -->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg' alt='topcoder' height='40'>](https://www.topcoder.com/members/ekomh29) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/ekomh13)
+
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](sadada) -->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/eko.m.haryono) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ekomh_29/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ekomh29) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/line.svg' alt='line' height='40'>](https://line.me/ti/p/Q-wuexDY4N) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/UJdZmkRA)
 
 <h3 align="left">GitHub stats Me:</h3>
 
