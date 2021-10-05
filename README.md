@@ -1,11 +1,11 @@
 ### Hi there, I'm Eko Muchamad Haryono👋
 
-<img src="assets/img/portofolio.PNG" alt="Gambar_Portofolio" width="500">
-
-<p> "Keep Moving Forward and Keep Developing".</p>
+<p>Slogan : "Keep Moving Forward and Keep Developing".</p>
 <p align='left'>I graduated from SMK 1 TRIPLE "J" 2020/2021, majoring in software engineering. (I'm looking for a job).</p>
 
 [![Gmail Badge](https://img.shields.io/badge/-ekomh13@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ekomh13@gmail.com)](mailto:ekomh13@gmail.com) [![Github Badge](https://img.shields.io/badge/-ekomh170-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ekomh170/)](https://www.github.com/ekomh170/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://ekomh170.github.io/)](https://ekomh170.github.io/) ![Profile views](https://gpvc.arturio.dev/ekomh170)
+
+<img src="assets/img/portofolio.PNG" alt="Gambar_Portofolio" width="500">
 
 <h3 align="left">Skill Me:</h3>
 
