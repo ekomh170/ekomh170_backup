@@ -18,7 +18,7 @@ I am currently participating in the Jabar Coding Camp (JCC) program. (I'm lookin
 
 <h3 align="left">Connect With Me:</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ekomh170) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/ekomh170) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eko-haryono-5a93301a6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIy8Th9MIT0yECfpOjycwvw%3D%3D)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ekomh170) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/ekomh170) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eko-haryono-290/)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg' alt='topcoder' height='40'>](https://www.topcoder.com/members/ekomh29) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/ekomh13)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/ekomh13/)
 
