@@ -1,7 +1,7 @@
 ### Hi there, I'm Eko Muchamad Haryono👋
 
 <p>Slogan : "Keep Moving Forward and Keep Developing".</p>
-<p align='left'>I graduated from SMK 1 TRIPLE "J" 2020/2021, majoring in software engineering.  I once participated in the Jabar Coding Camp (JCC) program. (I'm looking for a job).</p>
+<p align='left'>I graduated from SMK 1 TRIPLE "J" 2020/2021, majoring in software engineering.  I once participated in the Jabar Coding Camp (JCC) program.</p>
 
 <p align='left'><b>Link About Me : </b><a href="https://linktr.ee/ekomh29">https://linktr.ee/ekomh29</a></p>
 
