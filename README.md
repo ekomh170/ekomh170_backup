@@ -31,6 +31,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekomh170)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">GitHub metrics Me:</h3>
-
-![GitHub metrics](https://metrics.lecoq.io/ekomh170)
