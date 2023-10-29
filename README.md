@@ -10,11 +10,3 @@
 <img src="assets/cv_portofolio_foto/JPG_Sertifikat/SERTIFIKAT_KOMPETENSI.jpeg" alt="Sertifikat">
 
 <img src="assets/cv_portofolio_foto/JPG_Sertifikat/Nilai_Sertifikat_Kompetensi.jpeg" alt="Sertifikat_Nilai">
-
-<h3 align="left">Github Status Me:</h3>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ekomh170&show_icons=true&count_private=true)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ekomh170)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekomh170)](https://github.com/anuraghazra/github-readme-stats)
-
