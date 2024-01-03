@@ -1,4 +1,4 @@
-![image](https://github.com/ekomh170/ekomh170/assets/66320809/ef6f4254-c124-4d9d-9a48-5e9e7b99ad1d)### Hi there, I'm Eko Muchamad Haryono👋
+### Hi there, I'm Eko Muchamad Haryono👋
 
 <p>Slogan : "Keep Moving Forward and Keep Developing".</p>
 <p align='left'>I graduated from SMK 1 TRIPLE "J" 2020/2021, majoring in software engineering.  I once participated in the Jabar Coding Camp (JCC) program.</p>
