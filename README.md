@@ -9,7 +9,8 @@ In addition to these skills, I have a good understanding of Microsoft Office app
 
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=ekomh170&theme=vue-dark&hide_border=true' />
 
-[![Gmail Badge](https://img.shields.io/badge/-ekomh13@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ekomh13@gmail.com)](mailto:ekomh13@gmail.com) [![Github Badge](https://img.shields.io/badge/-ekomh170-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ekomh170/)](https://www.github.com/ekomh170/) [![Gitlab Badge](https://img.shields.io/badge/-ekomh170-grey?style=flat&logo=gitlab&logoColor=white&link=https://gitlab.com/ekomh170/)](https://www.gitlab.com/ekomh170/) 
+[![Gmail Badge](https://img.shields.io/badge/-ekomh13@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ekomh13@gmail.com)](mailto:ekomh13@gmail.com) [![Github Badge](https://img.shields.io/badge/-ekomh170-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ekomh170/)](https://www.github.com/ekomh170/) [![Gitlab Badge](https://img.shields.io/badge/-ekomh170-grey?style=flat&logo=gitlab&logoColor=white&link=https://gitlab.com/ekomh170/)](https://www.gitlab.com/ekomh170/) [![Gitlab Badge](https://img.shields.io/badge/-ekomh170-grey?style=flat&logo=gitlab&logoColor=white&link=https://gitlab.com/ekomh170/)](https://www.gitlab.com/ekomh170/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/eko-haryono-290/)
+
 
 <img src="assets/cv_portofolio_foto/JPG_Sertifikat/SERTIFIKAT_KOMPETENSI.jpeg" alt="Sertifikat">
 
